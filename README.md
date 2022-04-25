@@ -16,6 +16,6 @@ To run the proejct folllow these steps.
 1. clone project
 2. go to the proejct folder, then run command "npm install"
 3. run command "cd ios && pod install && cd .."
-4. run command "npm run!
+4. run command "npm run"
 
 ![RNBooksample](https://user-images.githubusercontent.com/69378425/165094500-96e837a2-6f44-45eb-88bb-8038c6c61371.gif)
